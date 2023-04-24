@@ -1,0 +1,30 @@
+.header{
+    text-align: center;
+    color:blue;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 20px;
+}
+
+.paragraph{
+    text-align: center;
+    color:blue;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    padding: 10px;
+    margin: 20px;
+}
+
+.content{
+    width: 100px;
+}
+
+.formular {
+    font-weight: 200;
+    padding: 10px;
+}
+
+.navbar {
+    text-align: center;
+}
